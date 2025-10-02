@@ -37,12 +37,6 @@
   <!-- LeetCode -->
     <img src="https://leetcard.jacoblin.cool/tejasRkirigeri08?theme=dark&font=Karma&ext=contest&cache=off" alt="LeetCode Stats" />
  </p>
-
-<p align="center">
-  <!-- Codeforces -->
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tejasrk1642006&cache=off" alt="Codeforces Stats" />
-</p>
-
 ---
 
 ## 📊 GitHub Highlights
@@ -68,8 +62,7 @@
 
 <p align="center">
   <a href="https://twitter.com/tejasrk08" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45" /></a>
-  <a href="https://linkedin.com/in/tejas-rk" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="https://linkedin.com/in/Tejas-RK" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
   <a href="https://instagram.com/tejasrk08" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
   <a href="https://leetcode.com/tejasrk08" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45" /></a>
-  <a href="https://codeforces.com/profile/tejasrk1642006" target="_blank"><img src="https://skillicons.dev/icons?i=codeforces" height="45" /></a>
 </p>
