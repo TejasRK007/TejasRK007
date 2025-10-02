@@ -35,7 +35,7 @@
 
 <p align="center">
   <!-- LeetCode -->
-    <img src="https://leetcard.jacoblin.cool/eAYnGyBrx0?theme=dark&font=Karma&ext=contest&cache=off" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/tejasRkirigeri08?theme=dark&font=Karma&ext=contest&cache=off" alt="LeetCode Stats" />
  </p>
 
 <p align="center">
