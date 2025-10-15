@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://twitter.com/tejasrk08" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45" /></a>
-  <a href="https://linkedin.com/in/Tejas-RK" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="https://linkedin.com/in/Tejas RK" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
   <a href="https://instagram.com/tejasrk08" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
   <a href="https://leetcode.com/tejasrk08" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45" /></a>
 </p>
