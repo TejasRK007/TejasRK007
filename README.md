@@ -15,9 +15,9 @@
 
 ## 💻 About Me
 
-- 🔭 Currently building cool apps with **Flutter**.  
-- 🌱 Focusing on **DSA in C++** for competitive programming.  
-- 🎯 Interested in **Software Development & Problem Solving**.  
+- 🔭 Currently building cool apps with **Flutter**  
+- 🌱 Focusing on **DSA in C++** for competitive programming  
+- 🎯 Interested in **Software Development & Problem Solving**  
 - 📫 Reach me at: **tejasrk1642006@gmail.com**  
 - ⚡ Fun fact: Classic introvert who shines in unexpected extrovert moments ✨  
 
@@ -34,9 +34,20 @@
 ## 📈 Competitive Programming
 
 <p align="center">
-  <!-- LeetCode -->
-    <img src="https://leetcard.jacoblin.cool/tejasRkirigeri08?theme=dark&font=Karma&ext=contest&cache=off" alt="LeetCode Stats" />
- </p>
+  <table>
+    <tr>
+      <td align="center">
+        <!-- Smaller LeetCode Stats -->
+        <img src="https://leetcard.jacoblin.cool/tejasRkirigeri08?theme=nord&font=Noto%20Sans%20Armenian&ext=contest" alt="LeetCode Stats" style="width: 400px;" />
+      </td>
+      <td align="center">
+        <!-- Smaller Codeforces Stats -->
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tejasrk1642006&show_rating=true&show_max_rating=true&show_total_solved=true&theme=tokyonight" alt="Codeforces Stats" style="width: 400px;" />
+      </td>
+    </tr>
+  </table>
+</p>
+
 ---
 
 ## 📊 GitHub Highlights
@@ -66,3 +77,4 @@
   <a href="https://instagram.com/tejasrk08" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
   <a href="https://leetcode.com/tejasrk08" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" height="45" /></a>
 </p>
+This one looks perfect
