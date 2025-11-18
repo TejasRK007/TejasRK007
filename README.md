@@ -38,11 +38,9 @@
     <tr>
       <td align="center">
         <h4>LeetCode Stats</h4>
-        <img src="https://leetcard.jacoblin.cool/tejasRkirigeri08?theme=dark&ext=contest" alt="LeetCode Stats" style="width: 400px;" />
       </td>
       <td align="center">
-        <h4>Codeforces Stats</h4>
-        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tejasrk1642006&show_rating=true&show_max_rating=true&show_total_solved=true&theme=tokyonight" alt="Codeforces Stats" style="width: 400px;" />
+        <h4>Codeforces Stats</h4>alt="Codeforces Stats" style="width: 400px;" />
       </td>
     </tr>
   </table>
