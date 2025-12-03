@@ -32,20 +32,24 @@
 ---
 
 ## 📈 Competitive Programming
+<div align="center">
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>LeetCode Stats</h4>
-      </td>
-      <td align="center">
-        <h4>Codeforces Stats</h4>alt="Codeforces Stats" style="width: 400px;" />
-      </td>
-    </tr>
-  </table>
-</p>
+  <h2>📊 My Competitive Programming Stats</h2>
 
+  <div>
+    <img
+      src="https://leetcard.jacoblin.cool/tejasRkirigeri08?theme=dark&ext=heatmap&show_rank=true"
+      alt="LeetCode Stats"
+      width="48%"
+    />
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=tejasrk1642006&theme=dark"
+      alt="Codeforces Stats"
+      width="48%"
+    />
+  </div>
+
+</div>
 ---
 
 ## 📊 GitHub Highlights
