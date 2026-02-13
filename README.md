@@ -39,7 +39,7 @@
 
   <div>
     <img
-      src="https://leetcard.jacoblin.cool/tejasRkirigeri08?theme=dark&ext=heatmap&show_rank=true"
+      src="https://leetcard.jacoblin.cool/Tejas_RK08?theme=dark&ext=heatmap&show_rank=true"
       alt="LeetCode Stats"
       width="48%"
     />
